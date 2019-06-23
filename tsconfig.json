@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+//        "outDir": "./out",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "rootDir": "src",
+        "sourceMap": true,
+        "allowJs": true,
+        "moduleResolution": "node",
+        "target": "es5"
+    },
+    "include": [
+        "src/**/*"
+    ],
+}

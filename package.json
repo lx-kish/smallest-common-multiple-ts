@@ -1,0 +1,19 @@
+{
+  "name": "smallestcommonmultiple",
+  "version": "1.0.0",
+  "description": "https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/smallest-common-multiple/",
+  "main": "main.js",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  },
+  "scripts": {
+    "test": "mocha tests/**/*.js",
+    "start": "node src/main.js"
+  },
+  "author": "lx-kish",
+  "license": "ISC"
+}
